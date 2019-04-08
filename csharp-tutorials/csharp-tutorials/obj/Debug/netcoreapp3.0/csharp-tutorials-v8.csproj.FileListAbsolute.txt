@@ -1,0 +1,12 @@
+D:\Susil\Projects\Source\github\susilj\learning\csharp-tutorials\csharp-tutorials\bin\Debug\netcoreapp3.0\csharp-tutorials-v8.exe
+D:\Susil\Projects\Source\github\susilj\learning\csharp-tutorials\csharp-tutorials\bin\Debug\netcoreapp3.0\csharp-tutorials-v8.deps.json
+D:\Susil\Projects\Source\github\susilj\learning\csharp-tutorials\csharp-tutorials\bin\Debug\netcoreapp3.0\csharp-tutorials-v8.runtimeconfig.json
+D:\Susil\Projects\Source\github\susilj\learning\csharp-tutorials\csharp-tutorials\bin\Debug\netcoreapp3.0\csharp-tutorials-v8.runtimeconfig.dev.json
+D:\Susil\Projects\Source\github\susilj\learning\csharp-tutorials\csharp-tutorials\bin\Debug\netcoreapp3.0\csharp-tutorials-v8.dll
+D:\Susil\Projects\Source\github\susilj\learning\csharp-tutorials\csharp-tutorials\bin\Debug\netcoreapp3.0\csharp-tutorials-v8.pdb
+D:\Susil\Projects\Source\github\susilj\learning\csharp-tutorials\csharp-tutorials\obj\Debug\netcoreapp3.0\csharp-tutorials-v8.csprojAssemblyReference.cache
+D:\Susil\Projects\Source\github\susilj\learning\csharp-tutorials\csharp-tutorials\obj\Debug\netcoreapp3.0\csharp-tutorials-v8.csproj.CoreCompileInputs.cache
+D:\Susil\Projects\Source\github\susilj\learning\csharp-tutorials\csharp-tutorials\obj\Debug\netcoreapp3.0\csharp-tutorials-v8.AssemblyInfoInputs.cache
+D:\Susil\Projects\Source\github\susilj\learning\csharp-tutorials\csharp-tutorials\obj\Debug\netcoreapp3.0\csharp-tutorials-v8.AssemblyInfo.cs
+D:\Susil\Projects\Source\github\susilj\learning\csharp-tutorials\csharp-tutorials\obj\Debug\netcoreapp3.0\csharp-tutorials-v8.dll
+D:\Susil\Projects\Source\github\susilj\learning\csharp-tutorials\csharp-tutorials\obj\Debug\netcoreapp3.0\csharp-tutorials-v8.pdb
